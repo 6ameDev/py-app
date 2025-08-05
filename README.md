@@ -23,3 +23,8 @@ make run
 ```bash
 make test
 ```
+
+### Running Linter
+```bash
+make lint
+```
